@@ -190,6 +190,28 @@ main{
 
 /*news latter style*/
 
-.n-latte{
-    
+.n-latter{
+    display: flex;
+    gap: 20px;
 }
+
+.n-latter h1{
+    font-size: 97px;
+    font-weight: 900;
+}
+
+.latter-form label{
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000;
+    align-items: center;
+    margin-bottom: 19px;
+}
+
+.latter-form input{
+    font-size: 18px;
+    color: #757575;
+    padding: 20px 270px 20px 32px;
+    margin-bottom: 19px;
+}
+
