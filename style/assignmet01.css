@@ -213,5 +213,13 @@ main{
     color: #757575;
     padding: 20px 270px 20px 32px;
     margin-bottom: 19px;
+    border-radius: 10px;
 }
 
+.btn-size{
+    padding: 19px 201px; 
+}
+
+.message{
+    height: 70px;
+}
