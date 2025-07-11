@@ -1,0 +1,156 @@
+/* Header section */
+
+
+header{
+    background-image: url(../Assets/Hero-bg.png);
+}
+
+.nav-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 150px;
+    margin-bottom: 152px;
+}
+
+.logo{
+    color: blue;
+    font-size: 34px;
+    font-weight: 800;
+}
+
+/* button-style */
+
+.button-style{
+    background-color: #4E47FF;
+    color: aliceblue;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 36px;
+    border-radius: 15px;
+    border: none;
+}
+
+.button-style:hover{
+    background-color: rgb(255, 106, 0);
+    font-size: 20px;
+}
+
+/* banner style */
+
+.banner{
+    text-align:center;
+    margin: 0 267px;
+    margin-bottom: 137px;
+}
+
+.banner-content{
+    font-size: 45px;
+    color: #252432;
+    margin-bottom: 37px;
+}
+
+main{
+    margin: 137px 150px;
+}
+
+/* section style */
+
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 116px;
+}
+
+.section-head{
+    font-size: 42px;
+    color: #252432;
+    font-weight: bold;
+
+}
+
+.section-description{
+    font-size: 24px;
+    color: #252432;
+}
+
+/* productive user */
+
+.productive-main{
+    background-color: #4d47ff1c;
+    text-align: center;
+    padding: 50px 80px;
+    border-radius: 45px;
+}
+
+.productive-main h2{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 700;
+    color: #252432;
+}
+
+
+.productive{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.user-head{
+    font-size: 80px;
+    font-weight: 900;
+    color: #4E47FF;
+}
+/* review style */
+
+.review-title h3{
+    text-align: center;
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.review-main{
+    display: flex;
+    gap: 20px;
+}
+
+.review{
+    padding: 34px;
+    border-radius: 25px;
+    box-shadow: 0 6px 25px 0 rgb(234, 234, 234);
+    gap: 10px;
+}
+
+.review-head{
+    text-align: left;
+    font-size: 24px;
+    color: #1E1E1E;
+}
+
+.review-content{
+    font-size: 16px;
+    color: #1E1E1E;
+}
+
+.reviewer{
+    display: flex;
+    gap: 10px;
+}
+
+.rvr-img{
+    size: 50px 50px;
+    border-radius: 50%;
+}
+
+.reviewer div h2{
+    font-size: 16px;
+    font-weight: 700;
+    color: #757575;
+}
+
+.reviewer div p{
+    font-size: 16px;
+    color: #B3B3B3;
+}
