@@ -82,6 +82,7 @@ main{
     text-align: center;
     padding: 50px 80px;
     border-radius: 45px;
+    margin-bottom: 137px;
 }
 
 .productive-main h2{
@@ -121,6 +122,7 @@ main{
     border-radius: 25px;
     box-shadow: 0 6px 25px 0 rgb(234, 234, 234);
     gap: 10px;
+    margin-bottom: 137px;
 }
 
 .review-head{
@@ -153,4 +155,41 @@ main{
 .reviewer div p{
     font-size: 16px;
     color: #B3B3B3;
+}
+
+/* studio style */
+
+.studio{
+    background-image: #FFFFFF;
+    box-shadow: 0 25px 50px 0 #B3B3B3;
+    border-radius: 25px;
+    padding: 71px 150px;
+    margin-bottom: 137px;
+}
+
+.studio-item{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.studio-item h3{
+    font-size: 50px;
+    font-weight: 700;
+    color: #252432;
+    margin-bottom: 2px;
+}
+
+.studio-item p{
+    font-size: 16px;
+    color: #757575;
+}
+
+.studio img{
+    border-radius: 48px;
+}
+
+/*news latter style*/
+
+.n-latte{
+    
 }
