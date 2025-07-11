@@ -229,14 +229,17 @@ main{
 
 footer{
     text-align: center;
-    margin: 104px 455px;
-    gap: 10px;
+    margin: 104px 306px;
+    align-items: center;
+    gap: 0;
 }
 
 .f-head{
     font-size: 100px;
     font-weight: bold;
     color: #4E47FF;
+    margin-bottom: 0 ;
+    text-align: center;
 }
 
 .f-content{
